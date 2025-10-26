@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node
+node_modules/
+*.log
+
+# OS
+.DS_Store
+
+# Build
+/dist
+/build
+
+# Data
+/data/
+run_artifacts/
