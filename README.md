@@ -7,10 +7,14 @@ A multi‑agent literature explorer that debates, cites, and renders an interact
 - **Semantic Scholar / arXiv / Papers With Code** fetchers with **dedup (cosine ≥ 0.92)**.
 - **pgvector** memory, **LiteLLM** cost/latency‑aware routing, **server‑side DOT→SVG**.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Strict typing**, **ruff+black+isort+mypy** via pre‑commit.
 =======
 - **Strict typing**, **ruff+black+isort+mypy** via pre‑commit. 
 >>>>>>> 0dd2eb4 (retrieval embeddings)
+=======
+- **Strict typing**, **ruff+black+isort+mypy** via pre‑commit. 
+>>>>>>> 75eb579 (db-pgvector)
 - Makefile targets you actually use (`make up`, `make check`, `make fmt`, etc.).
 - Minimal React UI that streams run status and renders the SVG.
 
