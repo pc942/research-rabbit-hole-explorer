@@ -8,6 +8,7 @@ A multi‑agent literature explorer that debates, cites, and renders an interact
 - **pgvector** memory, **LiteLLM** cost/latency‑aware routing, **server‑side DOT→SVG**.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Strict typing**, **ruff+black+isort+mypy** via pre‑commit.
 =======
 - **Strict typing**, **ruff+black+isort+mypy** via pre‑commit. 
@@ -15,6 +16,9 @@ A multi‑agent literature explorer that debates, cites, and renders an interact
 =======
 - **Strict typing**, **ruff+black+isort+mypy** via pre‑commit. 
 >>>>>>> 75eb579 (db-pgvector)
+=======
+- **Strict typing**, **ruff+black+isort+mypy** via pre‑commit. 
+>>>>>>> 9878cde (scout)
 - Makefile targets you actually use (`make up`, `make check`, `make fmt`, etc.).
 - Minimal React UI that streams run status and renders the SVG.
 
